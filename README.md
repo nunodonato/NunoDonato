@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I’m Nuno Donato 👋
+A chronic developer born and living in Portugal.
+
+I started coding with QBasic when I was 7, and since then it has been part of my life. I’ve done simple apps, complex apps, full-stack development on the web (Laravel ❤), designed databases, developed games and love to imagine and create small tools. I’m currently working as a freelancer and available for contract work.
+
+You can find my blog and a portfolio (kind of) at https://www.nunodonato.com
 
 <!--
 **nunodonato/NunoDonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
